@@ -1,6 +1,6 @@
 # Old and Random C Projects
 
-When I started to code for real in 2009-2010 (let's not count the alert() loops I was building in JavaScript on my family computer, all the other nonsense in batch files and the fun with Windows XP's command prompt at school at around 12), I experimented in C with the SDL library by recreating 2D games and with a bit of cryptography.
+When I started to code for real in 2009-2010 (*let's not count the alert() loops I was building in JavaScript on my family computer, all the other nonsense in batch files and the fun with Windows XP's command prompt at school at around 12*), I experimented in C with the SDL library by recreating 2D games and with a bit of cryptography.
 
 ## Projects
 
